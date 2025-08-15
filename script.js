@@ -1,9 +1,9 @@
 const slides = [
   
-  `<h2>Historia y evolucion tecnologica </h2>
+  `<h2>Historia y evolucion  </h2>
    <p> gattooooo </p>`,
 
-  `<h2>Cambios en el comportamiento del usuario  </h2>
+  `<h2>Cambios en el comportamiento del usuario </h2>
    <p >pepe goku alonso </p>`,
  
   `<h2>Errores y aprendizajes del usuario </h2>
@@ -55,5 +55,6 @@ document.getElementById('prev').addEventListener('click', () => {
 
 
 mostrar(indice);
+
 
 
