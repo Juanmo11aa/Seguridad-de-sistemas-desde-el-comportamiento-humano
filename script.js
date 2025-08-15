@@ -4,7 +4,7 @@ const slides = [
    <p> gattooooo </p>`,
 
   `<h2>Cambios en el comportamiento del usuario  </h2>
-   <p>""  </p>`,
+   <p >pepe goku alonso </p>`,
  
   `<h2>Errores y aprendizajes del usuario </h2>
 
@@ -55,4 +55,5 @@ document.getElementById('prev').addEventListener('click', () => {
 
 
 mostrar(indice);
+
 
