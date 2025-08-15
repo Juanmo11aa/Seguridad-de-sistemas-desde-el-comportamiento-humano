@@ -1,11 +1,11 @@
 const slides = [
   
   `<h2>Historia y evolucion tecnologica </h2>
-   <p> "" </p>`,
+   <p> "gattooooo" </p>`,
 
   `<h2>Cambios en el comportamiento del usuario  </h2>
    <p>""  </p>`,
-
+ 
   `<h2>Errores y aprendizajes del usuario </h2>
 
 <p> ""
@@ -52,5 +52,6 @@ document.getElementById('prev').addEventListener('click', () => {
   indice = (indice - 1 + slides.length) % slides.length;
   mostrar(indice);
 });
+
 
 mostrar(indice);
